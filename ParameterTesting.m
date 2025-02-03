@@ -1,11 +1,6 @@
 %% Preamble
 clear; close all; clc
 
-% Make sure that you are in the right directory
-cd('Z:\Labstation\Krysten\Parameter Estimation')
-
-%% Create Threshold/Saturation Stim Signal
-
 % Dynamometer (the piece the attachments go on) should be rotated 20 
 % degrees about the vertical axis.
 
